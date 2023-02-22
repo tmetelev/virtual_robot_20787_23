@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa0b50d0-4177-46b9-a559-7e61dcc1484d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/autonomus/Autonomus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/autonomus/Autonomusb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/robot/Claw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/robot/DriveTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/robot/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/teleop/teleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/ArmBotDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/BetaBotDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/EncBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/FreightBotDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/GamepadLedRumbleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/MecanumDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/TestOdom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/TestProgrammingBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/TestSixWheel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/TwoWheelDemoOpMode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/XDriveBotDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/DiffSwerveDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/MechBotAutoDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/SquareOmniDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/SwerveDrive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/TestDiffSwerve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/TestSwerve.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/TwoWheelDemoLinear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamCode/src/org/firstinspires/ftc/teamcode/disabled_samples/XDriveOdomDemo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2JdPt5ddcvWte7isNFrIEkOHnH7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Working directory\Proga\virtual_robot\TeamCode\src\org\firstinspires\ftc\teamcode" />
+      <recent name="D:\Working directory\Proga\virtual_robot\TeamCode\src\org\firstinspires\ftc\teamcode\mycode" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0b50d0-4177-46b9-a559-7e61dcc1484d" name="Changes" comment="" />
+      <created>1672405197510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672405197510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
